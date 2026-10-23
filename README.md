@@ -142,6 +142,7 @@
 - [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin) - Build and maintain an LLM-curated personal knowledge base with sharded indexes and search.
 - [swarmvault](https://github.com/swarmclawai/swarmvault) - Compile docs, research, and code into a local markdown wiki, knowledge graph, and hybrid search index.
 - [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Manage indexed Markdown knowledge bases for agents with scoped retrieval and deterministic indexes.
+- [weread-trial-card-list](https://github.com/C-s-salute/weread-trial-card-list) - Scrape WeRead category and rank pages into a deduplicated list of trial-card readable books, exported as a single-file HTML report and Excel.
 
 
 ## 🎬 Media & Content
